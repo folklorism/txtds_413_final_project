@@ -1,4 +1,4 @@
-**The Children's Hour (1934) Play Script by Lillian Hellman**
+<h1>The Children's Hour (1934) Play Script by Lillian Hellman</h1>
 TXTDS 413 WI '26 Texts, Data, and Computation: Programming for Text Analysis
 
 Token Analysis, Sentiment Analysis
